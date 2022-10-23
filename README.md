@@ -80,15 +80,6 @@ python3 start.py tools
   * 🌠 TOOLS | Console Tools
   * 👑 HELP | Show Usage Script
 
-#### Issues ? 
- * Telegram : https://t.me/DD0SChat
- * Discord : Soon as soon ... :)
- * [GitHub][github]
-#### Like the project? Leave a star on the repository!
-
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
 
 ### Getting Started
 
@@ -103,37 +94,14 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 * [icmplib](https://github.com/ValentinBELYN/icmplib)
 * [certifi](https://github.com/certifi/python-certifi)
 * [psutil](https://github.com/giampaolo/psutil)
-* [yarl](https://github.com/aio-libs/yarl)
----
-
-**Videos**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Tutorial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : Coming soon...
----
-
-## Documentation
-
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
-
+* 
 **Clone and Install Script**
 
 ```shell script
 git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+cd Larekin-Edited
 pip install -r requirements.txt
 ```
 
-[python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
 
----
-
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 
